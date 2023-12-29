@@ -2,6 +2,9 @@
 
 Welcome to Aetherfall, a captivating 2D platformer RPG that invites you to explore the mysteries of Eldrath, a kingdom trapped in eternal twilight. In this game, you embody the versatile Ranger-Knight, Vala, wielding both sword and bow to unravel the cosmic curse that shrouds the land.
 
+![Aetherfall](https://github.com/RaahimNadeem/Aetherfall_Game/assets/114340940/f1dd049b-6080-476d-bf2a-baa1d0be56cd)
+
+
 ## Features
 
 - **Engaging Gameplay:** Master the art of 2D metroidvania-style platformer mechanics, inspired by games like Hollow Knight and Castlevania series, solving environmental puzzles and battling unearthly creatures.
